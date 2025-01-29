@@ -1,0 +1,97 @@
+E:\ARBOR KIDS\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.csproj.AssemblyReference.cache
+E:\ARBOR KIDS\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\MainWindow.g.cs
+E:\ARBOR KIDS\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\App.g.cs
+E:\ARBOR KIDS\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet_MarkupCompile.cache
+E:\ARBOR KIDS\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet_MarkupCompile.lref
+E:\ARBOR KIDS\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\GeneratorEtykiet.exe.config
+E:\ARBOR KIDS\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\GeneratorEtykiet.exe
+E:\ARBOR KIDS\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\GeneratorEtykiet.pdb
+E:\ARBOR KIDS\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\MainWindow.baml
+E:\ARBOR KIDS\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.g.resources
+E:\ARBOR KIDS\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.Properties.Resources.resources
+E:\ARBOR KIDS\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.csproj.GenerateResource.cache
+E:\ARBOR KIDS\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.csproj.CoreCompileInputs.cache
+E:\ARBOR KIDS\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.exe
+E:\ARBOR KIDS\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.pdb
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\GeneratorEtykiet.exe.config
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\GeneratorEtykiet.exe
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\GeneratorEtykiet.pdb
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.csproj.AssemblyReference.cache
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\MainWindow.g.cs
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\App.g.cs
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet_MarkupCompile.cache
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet_MarkupCompile.lref
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\MainWindow.baml
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.g.resources
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.Properties.Resources.resources
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.csproj.GenerateResource.cache
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.csproj.CoreCompileInputs.cache
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.exe
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.pdb
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.csproj.CopyComplete
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\zxing.dll
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\zxing.presentation.dll
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\zxing.xml
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\zxing.presentation.xml
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\ExportWindow.g.cs
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\ExportWindow.baml
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\PdfSharpCore.dll
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\SixLabors.Fonts.dll
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\System.Buffers.dll
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\System.Memory.dll
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\SixLabors.Fonts.xml
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\System.Buffers.xml
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\System.Memory.xml
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\barsz\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\de\PdfSharpCore.resources.dll
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\GeneratorEtykiet.exe.config
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\GeneratorEtykiet.exe
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\GeneratorEtykiet.pdb
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\PdfSharpCore.dll
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\System.Buffers.dll
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\System.Memory.dll
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\zxing.dll
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\zxing.presentation.dll
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\System.Buffers.xml
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\System.Memory.xml
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\zxing.xml
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\zxing.presentation.xml
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\bin\Debug\de\PdfSharpCore.resources.dll
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.csproj.AssemblyReference.cache
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\ExportWindow.g.cs
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\MainWindow.g.cs
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\App.g.cs
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet_MarkupCompile.cache
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet_MarkupCompile.lref
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\ExportWindow.baml
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\MainWindow.baml
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.g.resources
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.Properties.Resources.resources
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.csproj.GenerateResource.cache
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.csproj.CoreCompileInputs.cache
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\Generato.BD4FF314.Up2Date
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.exe
+C:\Users\Franek\Documents\GitHub\CNC-Projects\Programy\GeneratorEtykiet\GeneratorEtykiet\obj\Debug\GeneratorEtykiet.pdb

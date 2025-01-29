@@ -1,0 +1,96 @@
+﻿<Window x:Class="GeneratorEtykiet.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GeneratorEtykiet"
+        mc:Ignorable="d"
+        Title="Generator Etykiet" Height="700" Width="1650">
+
+    <Grid x:Name="interfaceGrid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="1595"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="550"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Column="0" Grid.Row="1" Background="LightBlue"></Border>
+        <Border Grid.Column="2" Grid.Row="1" Background="LightBlue"></Border>
+        <Border Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" Background="LightBlue"></Border>
+        <Border Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="3" Background="LightBlue"></Border>
+
+        <!--<Image Source="E:\ARBOR KIDS\Programy\GeneratorEtykiet\pusta_etykieta.png"
+               Height="Auto" Width="Auto"
+               Grid.Column="1" Grid.Row="1"
+        />-->
+
+        <Grid x:Name="imageGrid" Grid.Column="1" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Image Source="Images/pusta_etykieta2.png"
+            Width="Auto" 
+            Height="Auto"
+            Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2"/>
+
+            <Image x:Name ="BarCode" Grid.Column="0" Grid.Row="0" Margin="1219,248,53,40"></Image>
+            <TextBox x:Name="Kod_kreskowy" TextAlignment="Center" MaxLength="13" Grid.Column="0" Grid.Row="0" BorderThickness="0" FontSize="30" Margin="1203,475,37,32" Background="Transparent" Text="Tu wpisz kod kreskowy..." TextChanged="BarCodeText_TextChanged"/>
+
+            <TextBox x:Name="Nazwa" Grid.Column="0" FontWeight="DemiBold"  TextWrapping="Wrap" Grid.Row="0" BorderThickness="0" FontSize="60" Background="Transparent" Margin="31,58,725,318">Tęczowa Półka</TextBox>
+            <TextBox x:Name="Opis_PL" Grid.Column="0" Grid.Row="0" BorderThickness="0" FontSize="40" TextWrapping="WrapWithOverflow" Margin="31,246,834,165" Background="Transparent">3 półkowa</TextBox>
+            <TextBox x:Name="Dimensions" Grid.Column="0" Grid.Row="0" BorderThickness="0" FontSize="28" Margin="31,385,834,119" Background="Transparent">wysokość 116,5cm, szerokość 120cm, głębokość 31,5cm</TextBox>
+            <TextBox x:Name="MadeIn" Grid.Column="0" Grid.Row="0" BorderThickness="0" TextAlignment="Right" FontSize="25" Margin="712,460,433,54" Background="Transparent">Wyprodukowano w Polsce</TextBox>
+            <TextBox x:Name="Box_X_Dimension" Grid.Column="0" Grid.Row="0" BorderThickness="0" FontSize="40" TextAlignment="Center" Margin="889,58,467,432" Background="Transparent">33cm</TextBox>
+            <TextBox x:Name="Box_Y_Dimension" Grid.Column="0" Grid.Row="0" BorderThickness="0" FontSize="40" TextAlignment="Center" Margin="759,186,524,298" Background="Transparent" RenderTransformOrigin="0.5,0.5">
+                <TextBox.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-90"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </TextBox.RenderTransform> 123cm
+            </TextBox>
+            <TextBox x:Name="Box_Z_Dimension" Grid.Column="0" Grid.Row="0" BorderThickness="0" FontSize="32" TextAlignment="Center" Margin="998,180,293,332" Background="Transparent" RenderTransformOrigin="0.5,0.5">
+                <TextBox.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleX="30"/>
+                        <RotateTransform Angle="90"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </TextBox.RenderTransform> 11cm
+            </TextBox>
+            <TextBox x:Name="Weight" Grid.Column="0" Grid.Row="0" BorderThickness="0" FontSize="70" TextAlignment="Center" Margin="889,275,467,175" Background="Transparent">13,5kg</TextBox>
+            <TextBox x:Name="Symbol" Grid.Column="0" Grid.Row="0" BorderThickness="0" FontSize="20" TextAlignment="Center" Margin="886,385,467,124" Background="Transparent">3_SHELVE_120_H</TextBox>
+            <TextBox x:Name="Kod" Grid.Column="0" Grid.Row="0" BorderThickness="0" FontSize="25" TextAlignment="Right" Background="Transparent" Text="NOCODE" Margin="1203,0,37,0" Height="40" VerticalAlignment="Top"/>
+        </Grid>
+
+        <Grid x:Name="UIGrid" Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Button FontSize="20" Grid.Column="0" Click="Button_Click_2">ANULUJ</Button>
+            <TextBox x:Name="CMD" FontSize="20" Grid.Column="1">ANULUJ</TextBox>
+            <Button FontSize="20" Grid.Column="2" Click="Button_Click">EKSPORTUJ JAKO PNG</Button>
+            <Button FontSize="20" Grid.Column="3" Click="Button_Click_1">ZAPISZ SZABLON</Button>
+        </Grid>
+    </Grid>
+</Window>

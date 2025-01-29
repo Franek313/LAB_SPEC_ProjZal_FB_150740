@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Franek\\Documents\\GitHub\\CNC-Projects\\Programy\\GeneratorEtykiet\\GeneratorEtykiet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42DA7B10-05E3-4B17-B835-B719A566094C}|GeneratorEtykiet.csproj|C:\\Users\\Franek\\Documents\\GitHub\\CNC-Projects\\Programy\\GeneratorEtykiet\\GeneratorEtykiet\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DA7B10-05E3-4B17-B835-B719A566094C}|GeneratorEtykiet.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DA7B10-05E3-4B17-B835-B719A566094C}|GeneratorEtykiet.csproj|C:\\Users\\Franek\\Documents\\GitHub\\CNC-Projects\\Programy\\GeneratorEtykiet\\GeneratorEtykiet\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{42DA7B10-05E3-4B17-B835-B719A566094C}|GeneratorEtykiet.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DA7B10-05E3-4B17-B835-B719A566094C}|GeneratorEtykiet.csproj|c:\\users\\franek\\documents\\github\\cnc-projects\\programy\\generatoretykiet\\generatoretykiet\\exportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DA7B10-05E3-4B17-B835-B719A566094C}|GeneratorEtykiet.csproj|solutionrelative:exportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Franek\\Documents\\GitHub\\CNC-Projects\\Programy\\GeneratorEtykiet\\GeneratorEtykiet\\ExportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ExportWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Franek\\Documents\\GitHub\\CNC-Projects\\Programy\\GeneratorEtykiet\\GeneratorEtykiet\\ExportWindow.xaml.cs",
+              "RelativeToolTip": "ExportWindow.xaml.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAAywDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:38:57.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Franek\\Documents\\GitHub\\CNC-Projects\\Programy\\GeneratorEtykiet\\GeneratorEtykiet\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Franek\\Documents\\GitHub\\CNC-Projects\\Programy\\GeneratorEtykiet\\GeneratorEtykiet\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T08:59:57.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Franek\\Documents\\GitHub\\CNC-Projects\\Programy\\GeneratorEtykiet\\GeneratorEtykiet\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Franek\\Documents\\GitHub\\CNC-Projects\\Programy\\GeneratorEtykiet\\GeneratorEtykiet\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAiwF8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:03:40.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

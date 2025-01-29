@@ -1,0 +1,698 @@
+[
+    {
+        "Symbol": "S_RR_SLIDE_ROCKER",
+        "Nazwa": "Reversible Ramp/Slide with holds S",
+        "Opis_PL": "Zjeżdżalnia do Bujaka S",
+        "Opis": "Reversible Ramp/Slide with holds S",
+        "Kod_kreskowy": "5905868438222",
+        "Uwagi": "43x105x1,8 45x96x7 8,4"
+    },
+    {
+        "Symbol": "M_RR_SLIDE_ROCKER",
+        "Nazwa": "Reversible Ramp/Slide with holds M",
+        "Opis_PL": "Zjeżdżalnia do Bujaka M",
+        "Opis": "Reversible Ramp/Slide with holds M",
+        "Kod_kreskowy": "5905868438239",
+        "Uwagi": "43x107x1,8 46x111x7 8,8"
+    },
+    {
+        "Symbol": "L_RR_SLIDE_ROCKER",
+        "Nazwa": "Reversible Ramp/Slide with holds L",
+        "Opis_PL": "Zjeżdżalnia do Bujaka L",
+        "Opis": "Reversible Ramp/Slide with holds L",
+        "Kod_kreskowy": "5905868438246",
+        "Uwagi": "50x122x1,8 53x128x7 10,6"
+    },
+    {
+        "Symbol": "XXL_RR_SLIDE_ROCKER",
+        "Nazwa": "Reversible Ramp/Slide with holds XXL",
+        "Opis_PL": "Zjeżdżalnia do Bujaka XXL",
+        "Opis": "Reversible Ramp/Slide with holds XXL",
+        "Kod_kreskowy": "5905868438253",
+        "Uwagi": "56x135x1,8 58x139x7 12,4"
+    },
+    {
+        "Symbol": "S_RR_CLIMB_ROCKER",
+        "Nazwa": "Reversible Ramp/Slide with Bars S",
+        "Opis_PL": "Zjeżdżalnia wspinaczkowa do Bujaka S",
+        "Opis": "Reversible Ramp/Slide with Bars S",
+        "Kod_kreskowy": "5905868438260",
+        "Uwagi": "43x93x1,8 45x96x7 7,5"
+    },
+    {
+        "Symbol": "M_RR_CLIMB_ROCKER",
+        "Nazwa": "Reversible Ramp/Slide with Bars M",
+        "Opis_PL": "Zjeżdżalnia wspinaczkowa do Bujaka M",
+        "Opis": "Reversible Ramp/Slide with Bars M",
+        "Kod_kreskowy": "5905868438277",
+        "Uwagi": "43x107x1,8 46x111x7 8,4"
+    },
+    {
+        "Symbol": "L_RR_CLIMB_ROCKER",
+        "Nazwa": "Reversible Ramp/Slide with Bars L",
+        "Opis_PL": "Zjeżdżalnia wspinaczkowa do Bujaka L",
+        "Opis": "Reversible Ramp/Slide with Bars L",
+        "Kod_kreskowy": "5905868438284",
+        "Uwagi": "50x123x1,8 52x125x7 10,3"
+    },
+    {
+        "Symbol": "XXL_RR_CLIMB_ROCKER",
+        "Nazwa": "Reversible Ramp/Slide with Bars XXL",
+        "Opis_PL": "Zjeżdżalnia wspinaczkowa do Bujaka XXL",
+        "Opis": "Reversible Ramp/Slide with Bars XXL",
+        "Kod_kreskowy": "5905868438291",
+        "Uwagi": "56x135x1,8 58x139x7 12,4"
+    },
+    {
+        "Symbol": "AD_CH_CHAIR",
+        "Nazwa": "Adjustable Child Chair",
+        "Opis_PL": "Wielofunkcyjne krzesełko dla dzieci",
+        "Opis": "Adjustable Child Chair",
+        "Kod_kreskowy": "5905868438789",
+        "Uwagi": "42x42x42 45x48x11 9,2"
+    },
+    {
+        "Symbol": "R_SCHELVE_80",
+        "Nazwa": "Rainbow Schelf custom furniture 80 cm ",
+        "Opis_PL": "Tęczowy Regał Półkowy 80 cm",
+        "Opis": "Rainbow Shelf custom furniture 80 cm",
+        "Kod_kreskowy": "5905868438758",
+        "Uwagi": "80x116,5x42,3 42x120x11 19,2"
+    },
+    {
+        "Symbol": "R_SCHELVE_100",
+        "Nazwa": "Rainbow Schelf custom furniture 100 cm ",
+        "Opis_PL": "Tęczowy Regał Półkowy 100 cm",
+        "Opis": "Rainbow Shelf custom furniture 100 cm",
+        "Kod_kreskowy": "5905868438765",
+        "Uwagi": "100x116,5x42,3 42x125x11 21,3"
+    },
+    {
+        "Symbol": "R_SCHELVE_120",
+        "Nazwa": "Rainbow Schelf custom furniture 120 cm ",
+        "Opis_PL": "Tęczowy Regał Półkowy 120 cm",
+        "Opis": "Rainbow Shelf custom furniture 120 cm",
+        "Kod_kreskowy": "5905868438772",
+        "Uwagi": "120x116,5x42,3 45x125x11 24,3"
+    },
+    {
+        "Symbol": "BOOKSHELV_80_H",
+        "Nazwa": "Custom Bookshelf,  80cm",
+        "Opis_PL": "Regał na książki WoodU - 80 cm",
+        "Opis": "Custom Bookshelf,  80cm",
+        "Kod_kreskowy": "5905868438307",
+        "Uwagi": "80x116,6x31,5 42x120x11 24,1"
+    },
+    {
+        "Symbol": "BOOKSHELV_100_H",
+        "Nazwa": "Custom Bookshelf,  100cm",
+        "Opis_PL": "Regał na książki WoodU - 100 cm",
+        "Opis": "Custom Bookshelf,  100cm",
+        "Kod_kreskowy": "5905868438314",
+        "Uwagi": "116x100x31,5 47x123x17 29"
+    },
+    {
+        "Symbol": "BOOKSHELV_120_H",
+        "Nazwa": "Custom Bookshelf,  120cm",
+        "Opis_PL": "Regał na książki WoodU - 120 cm",
+        "Opis": "Custom Bookshelf,  120cm",
+        "Kod_kreskowy": "5905868438321",
+        "Uwagi": "120x166,6x31,5 47x125x16 33,3"
+    },
+    {
+        "Symbol": "S_ROCKER_NATURAL",
+        "Nazwa": "Natural Wooden Rocker / Balance Board - Small",
+        "Opis_PL": "Drewniany Bujak w naturalnym kolorze S",
+        "Opis": "Natural Wooden Rocker / Balance Board - Small",
+        "Kod_kreskowy": "5905868438185",
+        "Uwagi": "85x45x47 47x90x7 9"
+    },
+    {
+        "Symbol": "M_ROCKER_NATURAL",
+        "Nazwa": "Natural Wooden Rocker / Balance Board - Medium",
+        "Opis_PL": "Drewniany Bujak w naturalnym kolorze M",
+        "Opis": "Natural Wooden Rocker / Balance Board - Medium",
+        "Kod_kreskowy": "5905868438192",
+        "Uwagi": "100x54x47 55x105x8 11,6"
+    },
+    {
+        "Symbol": "L_ROCKER_NATURAL",
+        "Nazwa": "Natural Wooden Rocker / Balance Board - Large",
+        "Opis_PL": "Drewniany Bujak w naturalnym kolorze L",
+        "Opis": "Natural Wooden Rocker / Balance Board - Large",
+        "Kod_kreskowy": "5905868438208",
+        "Uwagi": "117x60x54 62x120x8 15,3"
+    },
+    {
+        "Symbol": "XXL_ROCKER_NATURAL",
+        "Nazwa": "Natural Wooden Rocker / Balance Board - XXLarge",
+        "Opis_PL": "Drewniany Bujak w naturalnym kolorze XXL",
+        "Opis": "Natural Wooden Rocker / Balance Board - XXLarge",
+        "Kod_kreskowy": "5905868438215",
+        "Uwagi": "130x63x60 65x133x8 18"
+    },
+    {
+        "Symbol": "S_ROCKER_DARK_GRAY",
+        "Nazwa": "Dark gray Rocker / Balance Board - Small ",
+        "Opis_PL": "Drewniany Bujak w kolorze szarym S",
+        "Opis": "Dark gray Rocker / Balance Board - Small",
+        "Kod_kreskowy": "5905868438659",
+        "Uwagi": "85x45x47 47x90x7 9"
+    },
+    {
+        "Symbol": "M_ROCKER_DARK_GRAY",
+        "Nazwa": "Dark gray Rocker / Balance Board - Medium",
+        "Opis_PL": "Drewniany Bujak w kolorze szarym M",
+        "Opis": "Dark gray Rocker / Balance Board - Medium",
+        "Kod_kreskowy": "5905868438642",
+        "Uwagi": "100x54x47 55x105x8 11,6"
+    },
+    {
+        "Symbol": "L_ROCKER_DARK_GRAY",
+        "Nazwa": "Dark gray Rocker / Balance Board - Large",
+        "Opis_PL": "Drewniany Bujak w kolorze szarym L",
+        "Opis": "Dark gray Rocker / Balance Board - Large",
+        "Kod_kreskowy": "5905868438635",
+        "Uwagi": "117x60x54 62x120x8 15,3"
+    },
+    {
+        "Symbol": "XXL_ROCKER_DARK_GRAY",
+        "Nazwa": "Dark gray Rocker / Balance Board - XXLarge",
+        "Opis_PL": "Drewniany Bujak w kolorze szarym XXL",
+        "Opis": "Dark gray Rocker / Balance Board - XXLarge",
+        "Kod_kreskowy": "5905868438628",
+        "Uwagi": "130x63x60 65x133x8 18"
+    },
+    {
+        "Symbol": "S_ROCKER_BLACK",
+        "Nazwa": "Black Wooden Rocker / Balance Board - Small ",
+        "Opis_PL": "Drewniany Bujak w kolorze czarnym S",
+        "Opis": "Black Wooden Rocker / Balance Board - Small",
+        "Kod_kreskowy": "5905868438604",
+        "Uwagi": "85x45x47 47x90x7 9"
+    },
+    {
+        "Symbol": "M_ROCKER_BLACK",
+        "Nazwa": "Black Wooden Rocker / Balance Board - Medium",
+        "Opis_PL": "Drewniany Bujak w kolorze czarnym M",
+        "Opis": "Black Wooden Rocker / Balance Board - Medium",
+        "Kod_kreskowy": "5905868438598",
+        "Uwagi": "100x54x47 55x105x8 11,6"
+    },
+    {
+        "Symbol": "L_ROCKER_BLACK",
+        "Nazwa": "Black Wooden Rocker / Balance Board - Large",
+        "Opis_PL": "Drewniany Bujak w kolorze czarnym L",
+        "Opis": "Black Wooden Rocker / Balance Board - Large",
+        "Kod_kreskowy": "5905868438581",
+        "Uwagi": "117x60x54 62x120x8 15,3"
+    },
+    {
+        "Symbol": "XXL_ROCKER_BLACK",
+        "Nazwa": "Black Wooden Rocker / Balance Board - XXLarge",
+        "Opis_PL": "Drewniany Bujak w kolorze czarnym XXL",
+        "Opis": "Black Wooden Rocker / Balance Board - XXLarge",
+        "Kod_kreskowy": "5905868438611",
+        "Uwagi": "130x63x60 65x133x8 18"
+    },
+    {
+        "Symbol": "S_ROCKER_WHITE",
+        "Nazwa": "White Wooden Rocker / Balance Board - Small ",
+        "Opis_PL": "Drewniany Bujak w kolorze białym S",
+        "Opis": "White Wooden Rocker / Balance Board - Small",
+        "Kod_kreskowy": "5905868438567",
+        "Uwagi": "85x45x47 47x90x7 9"
+    },
+    {
+        "Symbol": "M_ROCKER_WHITE",
+        "Nazwa": "White Wooden Rocker / Balance Board - Medium",
+        "Opis_PL": "Drewniany Bujak w kolorze białym M",
+        "Opis": "White Wooden Rocker / Balance Board - Medium",
+        "Kod_kreskowy": "5905868438550",
+        "Uwagi": "100x54x47 55x105x8 11,6"
+    },
+    {
+        "Symbol": "L_ROCKER_LARGE",
+        "Nazwa": "White Wooden Rocker / Balance Board - Large",
+        "Opis_PL": "Drewniany Bujak w kolorze białym L",
+        "Opis": "White Wooden Rocker / Balance Board - Large",
+        "Kod_kreskowy": "5905868438543",
+        "Uwagi": "117x60x54 62x120x8 15,3"
+    },
+    {
+        "Symbol": "XXL_ROCKER_WHITE",
+        "Nazwa": "White Wooden Rocker / Balance Board - XXLarge",
+        "Opis_PL": "Drewniany Bujak w kolorze białym XXL",
+        "Opis": "White Wooden Rocker / Balance Board - XXLarge",
+        "Kod_kreskowy": "5905868438574",
+        "Uwagi": "130x63x60 65x133x8 18"
+    },
+    {
+        "Symbol": "5_SHELVE_80",
+        "Nazwa": "5 shelves custom furniture 80cm",
+        "Opis_PL": "5 półkowy regał wspinaczkowy WoodU, 80 cm",
+        "Opis": "5 shelfs custom furniture 80cm",
+        "Kod_kreskowy": "5905868438093",
+        "Uwagi": "80x159,2x42,3 45x165x12 24,5"
+    },
+    {
+        "Symbol": "5_SHELVE_100",
+        "Nazwa": "5 shelves customfurniture 100cm",
+        "Opis_PL": "5 półkowy regał wspinaczkowy WoodU, 100 cm",
+        "Opis": "5 shelfs custom furniture 100cm",
+        "Kod_kreskowy": "5905868438109",
+        "Uwagi": "100x159,2x42,3 45x165x16 27,3"
+    },
+    {
+        "Symbol": "5_SHELVE_120",
+        "Nazwa": "5 shelves customfurniture 120cm",
+        "Opis_PL": "5 półkowy regał wspinaczkowy WoodU, 120 cm",
+        "Opis": "5 shelfs custom furniture 120cm",
+        "Kod_kreskowy": "5905868438116",
+        "Uwagi": "120x159,2x42,3 45x164x17 31,6"
+    },
+    {
+        "Symbol": "4_SHELVE_80",
+        "Nazwa": "4 shelves custom furniture 80cm",
+        "Opis_PL": "4 półkowy regał wspinaczkowy WoodU, 80 cm",
+        "Opis": "4 shelfs custom furniture 80cm",
+        "Kod_kreskowy": "5905868438062",
+        "Uwagi": "80x139,5x42,3 45x145x17 20"
+    },
+    {
+        "Symbol": "4_SHELVE_100",
+        "Nazwa": "4 shelves custom furniture 100cm",
+        "Opis_PL": "4 półkowy regał wspinaczkowy WoodU, 100 cm",
+        "Opis": "4 shelfs custom furniture 100cm",
+        "Kod_kreskowy": "5905868438079",
+        "Uwagi": "100x139,5x42,3 45x145x16 24,2"
+    },
+    {
+        "Symbol": "4_SHELVE_120",
+        "Nazwa": "4 shelves custom furniture 120cm",
+        "Opis_PL": "4 półkowy regał wspinaczkowy WoodU, 120 cm",
+        "Opis": "4 shelfs custom furniture 120cm",
+        "Kod_kreskowy": "5905868438086",
+        "Uwagi": "120x139,5x42,3 45x145x17 27,4"
+    },
+    {
+        "Symbol": "3_SHELVE_80",
+        "Nazwa": "3 shelves custom furniture 80cm",
+        "Opis_PL": "3 półkowy regał wspinaczkowy WoodU, 80 cm",
+        "Opis": "3 shelfs custom furniture 80cm",
+        "Kod_kreskowy": "5905868438031",
+        "Uwagi": "80x116,5x42,3 45x124x14 16"
+    },
+    {
+        "Symbol": "3_SHELVE_100",
+        "Nazwa": "3 shelves custom furniture 100cm",
+        "Opis_PL": "3 półkowy regał wspinaczkowy WoodU, 100 cm",
+        "Opis": "3 shelfs custom furniture 100cm",
+        "Kod_kreskowy": "5905868438048",
+        "Uwagi": "100x116,5x42,3 45x124x14 20,7"
+    },
+    {
+        "Symbol": "3_SHELVE_120",
+        "Nazwa": "3 shelves custom furniture 120cm",
+        "Opis_PL": "3 półkowy regał wspinaczkowy WoodU, 120 cm",
+        "Opis": "3 shelfs custom furniture 120cm",
+        "Kod_kreskowy": "5905868438055",
+        "Uwagi": "120x116,5x42,3 45x124x14 21,5"
+    },
+    {
+        "Symbol": "2_SHELVE_80",
+        "Nazwa": "2 shelves custom furniture 80cm",
+        "Opis_PL": "2 półkowy regał wspinaczkowy WoodU, 80 cm",
+        "Opis": "2 shelfs custom furniture 80cm",
+        "Kod_kreskowy": "5905868438000",
+        "Uwagi": "80x89,5x42,3 45x105x11 13,5"
+    },
+    {
+        "Symbol": "2_SHELVE_100",
+        "Nazwa": "2 shelves custom furniture 100cm",
+        "Opis_PL": "2 półkowy regał wspinaczkowy WoodU, 100 cm",
+        "Opis": "2 shelfs custom furniture 100cm",
+        "Kod_kreskowy": "5905868438017",
+        "Uwagi": "100x89,5x42,3 45x105x11 16,5"
+    },
+    {
+        "Symbol": "2_SHELVE_120",
+        "Nazwa": "2 shelves custom furniture 120cm",
+        "Opis_PL": "2 półkowy regał wspinaczkowy WoodU, 120 cm",
+        "Opis": "2 shelfs custom furniture 120cm",
+        "Kod_kreskowy": "5905868438024",
+        "Uwagi": "120x89,5x42,3 45x105x11 16,4"
+    },
+    {
+        "Symbol": "S_TOP_ROCKER",
+        "Nazwa": "Natural Rocker Tabletop S",
+        "Opis_PL": "Blat do Bujaka S",
+        "Opis": "Natural Rocker Tabletop S",
+        "Kod_kreskowy": "5905868438802",
+        "Uwagi": "85x43x3,6 46x87x5 7,4"
+    },
+    {
+        "Symbol": "M_TOP_ROCKER",
+        "Nazwa": "Natural Rocker Tabletop M",
+        "Opis_PL": "Blat do Bujaka M",
+        "Opis": "Natural Rocker Tabletop M",
+        "Kod_kreskowy": "5905868438819",
+        "Uwagi": "100x54x3,6 54x103x6 7,8"
+    },
+    {
+        "Symbol": "L_TOP_ROCKER",
+        "Nazwa": "Natural Rocker Tabletop L",
+        "Opis_PL": "Blat do Bujaka L",
+        "Opis": "Natural Rocker Tabletop L",
+        "Kod_kreskowy": "5905868438826",
+        "Uwagi": "117x60x3,6 61x119x5 9,6"
+    },
+    {
+        "Symbol": "XXL_TOP_ROCKER",
+        "Nazwa": "Natural Rocker Tabletop XXL",
+        "Opis_PL": "Blat do Bujaka XXL",
+        "Opis": "Natural Rocker Tabletop XXL",
+        "Kod_kreskowy": "5905868438833",
+        "Uwagi": "63x130x3,6 64x132x5 11,4"
+    },
+    {
+        "Symbol": "S_BEIGE_MATTRESS",
+        "Nazwa": "Mattress for S Rocker- colour Cream",
+        "Opis_PL": "Materac S kolor Kremowy",
+        "Opis": "Mattress for S Rocker- colour Beige",
+        "Kod_kreskowy": "5905868438871",
+        "Uwagi": "43x100x6 58x83x14 2,5"
+    },
+    {
+        "Symbol": "M_BEIGE_MATTRESS",
+        "Nazwa": "Mattress for M Rocker- colour Cream",
+        "Opis_PL": "Materac M kolor Kremowy",
+        "Opis": "Mattress for M Rocker- colour Cream",
+        "Kod_kreskowy": "5905868438864",
+        "Uwagi": "43x130x6 58x83x14 2,7"
+    },
+    {
+        "Symbol": "L_BEIGE_MATTRESS",
+        "Nazwa": "Mattress for L Rocker- colour Cream",
+        "Opis_PL": "Materac L kolor Kremowy",
+        "Opis": "Mattress for L Rocker- colour Cream",
+        "Kod_kreskowy": "5905868438857",
+        "Uwagi": "50x143x6 58x83x14 3"
+    },
+    {
+        "Symbol": "XXL_BEIGE_MATTRESS",
+        "Nazwa": "Mattress for XXL Rocker- colour Cream",
+        "Opis_PL": "Materac XXL kolor Kremowy",
+        "Opis": "Mattress for XXL Rocker- colour Cream",
+        "Kod_kreskowy": "5905868438840",
+        "Uwagi": "56x160x6 58x83x14 3,4"
+    },
+    {
+        "Symbol": "S_MINT_MATTRESS",
+        "Nazwa": "Mattress for S Rocker- colour Mint",
+        "Opis_PL": "Materac S kolor Miętowy",
+        "Opis": "Mattress for S Rocker- colour Mint",
+        "Kod_kreskowy": "5905868438918",
+        "Uwagi": "43x100x6 58x83x14 2,5"
+    },
+    {
+        "Symbol": "M_MINT_MATTRESS",
+        "Nazwa": "Mattress for M Rocker- colour Mint",
+        "Opis_PL": "Materac M kolor Miętowy",
+        "Opis": "Mattress for M Rocker- colour Mint",
+        "Kod_kreskowy": "5905868438901",
+        "Uwagi": "43x130x6 58x83x14 2,7"
+    },
+    {
+        "Symbol": "L_MINT_MATTRESS",
+        "Nazwa": "Mattress for L Rocker- colour Mint",
+        "Opis_PL": "Materac L kolor Miętowy",
+        "Opis": "Mattress for L Rocker- colour Mint",
+        "Kod_kreskowy": "5905868438895",
+        "Uwagi": "50x143x6 58x83x14 3"
+    },
+    {
+        "Symbol": "XXL_MINT_MATTRESS",
+        "Nazwa": "Mattress for XXL Rocker- colour Mint",
+        "Opis_PL": "Materac XXL kolor Miętowy",
+        "Opis": "Mattress for XXL Rocker- colour Mint",
+        "Kod_kreskowy": "5905868438888",
+        "Uwagi": "56x160x6 58x83x14 3,4"
+    },
+    {
+        "Symbol": "S_CY_MATTRESS",
+        "Nazwa": "Mattress for S Rocker- colour Canary Yellow",
+        "Opis_PL": "Materac S kolor Kanarkowy",
+        "Opis": "Mattress for S Rocker- colour Canary Yellow",
+        "Kod_kreskowy": "5905868438956",
+        "Uwagi": "43x100x6 58x83x14 2,5"
+    },
+    {
+        "Symbol": "M_CY_MATTRESS",
+        "Nazwa": "Mattress for M Rocker- colour Canary Yellow",
+        "Opis_PL": "Materac M kolor Kanarkowy",
+        "Opis": "Mattress for M Rocker- colour Canary Yellow",
+        "Kod_kreskowy": "5905868438949",
+        "Uwagi": "43x130x6 58x83x14 2,7"
+    },
+    {
+        "Symbol": "L_CY_MATTRESS",
+        "Nazwa": "Mattress for L Rocker- colour Canary Yellow",
+        "Opis_PL": "Materac L kolor Kanarkowy",
+        "Opis": "Mattress for L Rocker- colour Canary Yellow",
+        "Kod_kreskowy": "5905868438932",
+        "Uwagi": "50x143x6 58x83x14 3"
+    },
+    {
+        "Symbol": "XXL_CY_MATTRESS",
+        "Nazwa": "Mattress for XXL Rocker- colour Canary Yellow",
+        "Opis_PL": "Materac XXL kolor Kanarkowy",
+        "Opis": "Mattress for XXL Rocker- colour Canary Yellow",
+        "Kod_kreskowy": "5905868438925",
+        "Uwagi": "56x160x6 58x83x14 3,4"
+    },
+    {
+        "Symbol": "S_BS_MATTRESS",
+        "Nazwa": "Mattress for S Rocker- colour Blue Sky",
+        "Opis_PL": "Materac S kolor Błękitny",
+        "Opis": "Mattress for S Rocker- colour Blue Sky",
+        "Kod_kreskowy": "5905868438994",
+        "Uwagi": "43x100x6 58x83x14 2,5"
+    },
+    {
+        "Symbol": "M_BS_MATTRESS",
+        "Nazwa": "Mattress for M Rocker- colour Blue Sky",
+        "Opis_PL": "Materac M kolor Błękitny",
+        "Opis": "Mattress for M Rocker- colour Blue Sky",
+        "Kod_kreskowy": "5905868438987",
+        "Uwagi": "43x130x6 58x83x14 2,7"
+    },
+    {
+        "Symbol": "L_BS_MATTRESS",
+        "Nazwa": "Mattress for L Rocker- colour Blue Sky",
+        "Opis_PL": "Materac L kolor Błękitny",
+        "Opis": "Mattress for L Rocker- colour Blue Sky",
+        "Kod_kreskowy": "5905868438970",
+        "Uwagi": "50x143x6 58x83x14 3"
+    },
+    {
+        "Symbol": "XXL_BS_MATTRESS",
+        "Nazwa": "Mattress for XXL Rocker- colour Blue Sky",
+        "Opis_PL": "Materac XXL kolor Błękitny",
+        "Opis": "Mattress for XXL Rocker- colour Blue Sky",
+        "Kod_kreskowy": "5905868438963",
+        "Uwagi": "56x160x6 58x83x14 3,4"
+    },
+    {
+        "Symbol": "S_DS_MATTRESS",
+        "Nazwa": "Mattress for S Rocker- colour Deep Sea",
+        "Opis_PL": "Materac S kolor Morski",
+        "Opis": "Mattress for S Rocker- colour Deep Sea",
+        "Kod_kreskowy": "5906817572035",
+        "Uwagi": "43x100x6 58x83x14 2,5"
+    },
+    {
+        "Symbol": "M_DS_MATTRESS",
+        "Nazwa": "Mattress for M Rocker- colour Deep Sea",
+        "Opis_PL": "Materac M kolor Morski",
+        "Opis": "Mattress for M Rocker- colour Deep Sea",
+        "Kod_kreskowy": "5906817572028",
+        "Uwagi": "43x130x6 58x83x14 2,7"
+    },
+    {
+        "Symbol": "L_DS_MATTRESS",
+        "Nazwa": "Mattress for L Rocker- colour Deep Sea",
+        "Opis_PL": "Materac L kolor Morski",
+        "Opis": "Mattress for L Rocker- colour Deep Sea",
+        "Kod_kreskowy": "5906817572011",
+        "Uwagi": "50x143x6 58x83x14 3"
+    },
+    {
+        "Symbol": "XXL_DS_MATTRESS",
+        "Nazwa": "Mattress for XXL Rocker- colour Deep Sea",
+        "Opis_PL": "Materac XXL kolor Morski",
+        "Opis": "Mattress for XXL Rocker- colour Deep Sea",
+        "Kod_kreskowy": "5906817572004",
+        "Uwagi": "56x160x6 58x83x14 3,4"
+    },
+    {
+        "Symbol": "S_DG_MATTRESS",
+        "Nazwa": "Mattress for S Rocker- colour Dark Grey",
+        "Opis_PL": "Materac S kolor Ciemnoszary",
+        "Opis": "Mattress for S Rocker- colour Dark Grey",
+        "Kod_kreskowy": "5906817572066",
+        "Uwagi": "43x100x6 58x83x14 2,5"
+    },
+    {
+        "Symbol": "M_DG_MATTRESS",
+        "Nazwa": "Mattress for M Rocker- colour Dark Grey",
+        "Opis_PL": "Materac M kolor Ciemnoszary",
+        "Opis": "Mattress for M Rocker- colour Dark Grey",
+        "Kod_kreskowy": "5906817572288",
+        "Uwagi": "43x130x6 58x83x14 2,7"
+    },
+    {
+        "Symbol": "L_DG_MATTRESS",
+        "Nazwa": "Mattress for L Rocker- colour Dark Grey",
+        "Opis_PL": "Materac L kolor Ciemnoszary",
+        "Opis": "Mattress for L Rocker- colour Dark Grey",
+        "Kod_kreskowy": "5906817572059",
+        "Uwagi": "50x143x6 58x83x14 3"
+    },
+    {
+        "Symbol": "XXL_DG_MATTRESS",
+        "Nazwa": "Mattress for XXL Rocker- colour Dark Grey",
+        "Opis_PL": "Materac XXL kolor Ciemnoszary",
+        "Opis": "Mattress for XXL Rocker- colour Dark Grey",
+        "Kod_kreskowy": "5906817572042",
+        "Uwagi": "56x160x6 58x83x14 3,4"
+    },
+    {
+        "Symbol": "S_LG_MATTRESS",
+        "Nazwa": "Mattress for S Rocker- colour Light Grey",
+        "Opis_PL": "Materac S kolor Jasnoszary",
+        "Opis": "Mattress for S Rocker- colour Light Grey",
+        "Kod_kreskowy": "5906817572103",
+        "Uwagi": "43x100x6 58x83x14 2,5"
+    },
+    {
+        "Symbol": "M_LG_MATTRESS",
+        "Nazwa": "Mattress for M Rocker- colour Light Grey",
+        "Opis_PL": "Materac M kolor Jasnoszary",
+        "Opis": "Mattress for M Rocker- colour Light Grey",
+        "Kod_kreskowy": "5906817572097",
+        "Uwagi": "43x130x6 58x83x14 2,7"
+    },
+    {
+        "Symbol": "L_LG_MATTRESS",
+        "Nazwa": "Mattress for L Rocker- colour Light Grey",
+        "Opis_PL": "Materac L kolor Jasnoszary",
+        "Opis": "Mattress for L Rocker- colour Light Grey",
+        "Kod_kreskowy": "5906817572080",
+        "Uwagi": "50x143x6 58x83x14 3"
+    },
+    {
+        "Symbol": "XXL_LG_MATTRESS",
+        "Nazwa": "Mattress for XXL Rocker- colour Light Grey",
+        "Opis_PL": "Materac XXL kolor Jasnoszary",
+        "Opis": "Mattress for XXL Rocker- colour Light Grey",
+        "Kod_kreskowy": "5906817572073",
+        "Uwagi": "56x160x6 58x83x14 3,4"
+    },
+    {
+        "Symbol": "S_RP_MATTRESS",
+        "Nazwa": "Mattress for S Rocker- colour Rose Pink",
+        "Opis_PL": "Materac S kolor Różany",
+        "Opis": "Mattress for S Rocker- colour Rose Pink",
+        "Kod_kreskowy": "5906817572141",
+        "Uwagi": "43x100x6 58x83x14 2,5"
+    },
+    {
+        "Symbol": "M_RP_MATTRESS",
+        "Nazwa": "Mattress for M Rocker- colour Rose Pink",
+        "Opis_PL": "Materac M kolor Różany",
+        "Opis": "Mattress for M Rocker- colour Rose Pink",
+        "Kod_kreskowy": "5906817572134",
+        "Uwagi": "43x130x6 58x83x14 2,7"
+    },
+    {
+        "Symbol": "L_RP_MATTRESS",
+        "Nazwa": "Mattress for L Rocker- colour Rose Pink",
+        "Opis_PL": "Materac L kolor Różany",
+        "Opis": "Mattress for L Rocker- colour Rose Pink",
+        "Kod_kreskowy": "5906817572127",
+        "Uwagi": "50x143x6 58x83x14 3"
+    },
+    {
+        "Symbol": "XXL_RP_MATTRESS",
+        "Nazwa": "Mattress for XXL Rocker- colour Rose Pink",
+        "Opis_PL": "Materac XXL kolor Różany",
+        "Opis": "Mattress for XXL Rocker- colour Rose Pink",
+        "Kod_kreskowy": "5906817572110",
+        "Uwagi": "56x160x6 58x83x14 3,4"
+    },
+    {
+        "Symbol": "S_CG_MATTRESS",
+        "Nazwa": "Mattress for S Rocker- colour Frosty Morning",
+        "Opis_PL": "Materac S kolor Szary",
+        "Opis": "Mattress for S Rocker- colour Frosty Morning",
+        "Kod_kreskowy": "5906817572189",
+        "Uwagi": "43x100x6 58x83x14 2,5"
+    },
+    {
+        "Symbol": "M_CG_MATTRESS",
+        "Nazwa": "Mattress for M Rocker- colour Frosty Morning",
+        "Opis_PL": "Materac M kolor Szary",
+        "Opis": "Mattress for M Rocker- colour Frosty Morning",
+        "Kod_kreskowy": "5906817572172",
+        "Uwagi": "43x130x6 58x83x14 2,7"
+    },
+    {
+        "Symbol": "L_CG_MATTRESS",
+        "Nazwa": "Mattress for L Rocker- colour Frosty Morning",
+        "Opis_PL": "Materac L kolor Szary",
+        "Opis": "Mattress for L Rocker- colour Frosty Morning",
+        "Kod_kreskowy": "5906817572165",
+        "Uwagi": "50x143x6 58x83x14 3"
+    },
+    {
+        "Symbol": "XXL_CG_MATTRESS",
+        "Nazwa": "Mattress for XXL Rocker- colour Frosty Morning",
+        "Opis_PL": "Materac XXL kolor Szary",
+        "Opis": "Mattress for XXL Rocker- colour Frosty Morning",
+        "Kod_kreskowy": "5906817572158",
+        "Uwagi": "56x160x6 58x83x14 3,4"
+    },
+    {
+        "Symbol": "S_MAROON_MATTRESS",
+        "Nazwa": "Mattress for S Rocker- colour Maroon",
+        "Opis_PL": "Materac S kolor Kasztanowy",
+        "Opis": "Mattress for S Rocker- colour Maroon",
+        "Kod_kreskowy": "5906817572226",
+        "Uwagi": "43x100x6 58x83x14 2,5"
+    },
+    {
+        "Symbol": "M_MAROON_MATTRESS",
+        "Nazwa": "Mattress for M Rocker- colour Maroon",
+        "Opis_PL": "Materac M kolor Kasztanowy",
+        "Opis": "Mattress for M Rocker- colour Maroon",
+        "Kod_kreskowy": "5906817572219",
+        "Uwagi": "43x130x6 58x83x14 2,7"
+    },
+    {
+        "Symbol": "L_MAROON_MATTRESS",
+        "Nazwa": "Mattress for L Rocker- colour Maroon",
+        "Opis_PL": "Materac L kolor Kasztanowy",
+        "Opis": "Mattress for L Rocker- colour Maroon",
+        "Kod_kreskowy": "5906817572202",
+        "Uwagi": "50x143x6 58x83x14 3"
+    },
+    {
+        "Symbol": "XXL_MAROON_MATTRESS",
+        "Nazwa": "Mattress for XXL Rocker- colour Maroon",
+        "Opis_PL": "Materac XXL kolor Kasztanowy",
+        "Opis": "Mattress for XXL Rocker- colour Maroon",
+        "Kod_kreskowy": "5906817572196",
+        "Uwagi": "56x160x6 58x83x14 3,4"
+    }
+]
